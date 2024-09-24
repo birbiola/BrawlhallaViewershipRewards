@@ -11,7 +11,7 @@
    ```bash
    pip install -r requirements.txt
    
-2. **Authentication**: run **get-auth.py** to get OAuth Token and select browser you have logged in to **Twitch**.
+2. **Authentication**: run **get-auth.py** to get OAuth Token and select browser you logged in to **Twitch**.
    ```bash
    python get-auth.py
 
