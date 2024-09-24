@@ -18,3 +18,5 @@
 4. **Run the Bot**:
      ```bash
      python main.py
+
+## or you can just run the .exe file.
