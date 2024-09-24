@@ -1,11 +1,7 @@
 # Brawlhalla Viewership Rewards Bot
 
-This script used for farm Brawlhalla Viewership Rewards Extension without actually watch the stream.
+## This script used to farm **Brawlhalla Viewership Rewards Extension** points without actually watch the stream.
 
-## Features
-
-- **Reward Tracking**: Monitors progress towards viewership rewards on Brawlhalla.
-- 
 ## Requirements
 
 - Python 3.8+
