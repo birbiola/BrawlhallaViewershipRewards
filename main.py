@@ -77,7 +77,7 @@ class BrawlhallaViewershipRewards:
     async def main(self):
 
         if not os.path.exists("auth-token.txt"):
-            auth = input("Enter Your Twitch OAuth Token: ")
+            auth = input("Token Not Found. Enter Your Twitch OAuth Token: ")
             with open("auth-token.txt", "w") as f:
                 f.write(auth)
         else:
