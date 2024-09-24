@@ -1,6 +1,4 @@
-# Brawlhalla Viewership Rewards Bot
-
-## This script used to farm **Brawlhalla Viewership Rewards Extension** points without actually watch the stream.
+# This script is used to farm Brawlhalla Viewership Rewards Extension points without actually watching the stream.
 
 ## Requirements
 
