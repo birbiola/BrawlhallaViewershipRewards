@@ -20,3 +20,6 @@
      python main.py
 
 ## or you can just run this [Release](https://github.com/birbiola/BrawlhallaViewershipRewards/releases/tag/v1.0.0)
+
+### Tested on Sept 25th 2024
+### Brawlhalla limiting 5 Account per 1 IP Address
