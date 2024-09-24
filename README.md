@@ -21,4 +21,4 @@ This script automates tracking of your progress and refreshing tokens for Brawlh
 2. Authentication: You need to provide a valid Twitch OAuth token. When you run the bot for the first time, it will prompt you to enter your token. The token will be saved in auth-token.txt for subsequent use.
 3. Run the Bot: Use the following command to start the bot:
      ```bash
-      python run.py
+      python Brawlhalla Viewership Rewards 1.1.py
