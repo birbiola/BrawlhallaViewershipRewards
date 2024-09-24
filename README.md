@@ -19,4 +19,4 @@
      ```bash
      python main.py
 
-## or you can just run the .exe file.
+## or you can just run this [Release](https://github.com/birbiola/BrawlhallaViewershipRewards/releases/tag/v1.0.0)
