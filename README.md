@@ -12,7 +12,7 @@
    pip install -r requirements.txt
    
 2. **Authentication**: You need to provide a valid Twitch OAuth token. When you run the bot for the first time, it will prompt you to enter your token. The token will be saved in auth-token.txt for subsequent use.
-3. 
+
 4. **Run the Bot**:
      ```bash
      python main.py
