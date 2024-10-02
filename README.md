@@ -26,4 +26,4 @@
 
 ### Tested on Sept 25th 2024
 ### Brawlhalla limiting 5 Account per 1 IP Address
-### DM Me on Discord @birbiola for questions.
+### Discord @birbiola
