@@ -4,6 +4,9 @@
 
 - Python 3.8+
 - Twitch OAuth Token
+- aiohttp
+- requests
+- browser-cookie3
 
 ## Setup
 
@@ -23,3 +26,4 @@
 
 ### Tested on Sept 25th 2024
 ### Brawlhalla limiting 5 Account per 1 IP Address
+### DM Me on Discord @birbiola for questions.
