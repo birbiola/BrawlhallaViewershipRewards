@@ -1,4 +1,4 @@
-# This script is used to farm Brawlhalla Viewership Rewards Extension points without actually watching the stream.
+# Python Brawlhalla Viewership Rewards.
 
 ## Requirements
 
@@ -22,8 +22,9 @@
      ```bash
      python main.py
 
-## or you can just run this [Release](https://github.com/birbiola/BrawlhallaViewershipRewards/releases/tag/v1.0.0)
+## didnt understand Python? just run this [Release](https://github.com/birbiola/BrawlhallaViewershipRewards/releases/tag/v1.0.0)
 
 ### Tested on Sept 25th 2024
 ### Brawlhalla limiting 5 Account per 1 IP Address
+### There is an advanced version using proxies that can hold 50+ accounts but it seems unnecessary
 ### Discord @birbiola
