@@ -17,7 +17,7 @@
      ```bash
      python main.py
 
-## doesnt understand Python? just run this [Release](https://github.com/birbiola/BrawlhallaViewershipRewards/releases/tag/v1.0.0)
+## doesnt understand Python? just run this [Release](https://github.com/birbiola/BrawlhallaViewershipRewards/releases/download/v.1.5/Brawlhalla.Viewership.Rewards.exe)
 
 ### Tested on Sept 25th 2024
 ### Brawlhalla limiting 5 Account per 1 IP Address
