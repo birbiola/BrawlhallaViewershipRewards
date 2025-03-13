@@ -21,5 +21,5 @@
 
 ### Tested on Sept 25th 2024
 ### Brawlhalla limiting 5 Account per 1 IP Address
-### DISCLAIMER : This Script is Only Proof of Concept That Brawlhalla Viewrship Rewards Extension Can be Farmed.
+### DISCLAIMER : This Script is Only Proof of Concept That Brawlhalla Viewership Rewards Extension Can be Farmed.
 ### Discord @birbiola
